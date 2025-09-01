@@ -19,7 +19,7 @@ This question is solved, and here is the answer:
 
 ### 3. Highest Priced Pizza  
 This question is solved, and here is the answer:  
-📸 Screenshot of result is attached below.  
+<img width="641" height="450" alt="Image" src="https://github.com/user-attachments/assets/90f186b9-0880-4e2b-bedd-60b4e3311576" />  
 
 ### 4. Most Common Pizza Ordered  
 This question is solved, and here is the answer:  

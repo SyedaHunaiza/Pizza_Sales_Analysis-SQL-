@@ -27,7 +27,7 @@ This question is solved, and here is the answer:
 
 ### 5. Top 5 Most Ordered Pizza Types  
 This question is solved, and here is the answer:  
-📸 Screenshot of result is attached below.  
+<img width="931" height="561" alt="Image" src="https://github.com/user-attachments/assets/9a894d80-a4b5-4288-ac46-57bd9f336877" /> 
 
 ### 6. Total Quantity of Each Pizza Category Ordered  
 This question is solved, and here is the answer:  

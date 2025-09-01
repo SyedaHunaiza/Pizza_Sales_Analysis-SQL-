@@ -11,7 +11,7 @@ Each question is solved, and the answers can be seen in the screenshots provided
 
 ### 1. Total Orders Placed  
 This question is solved, and here is the answer:  
-📸 Screenshot of result is attached below.  
+<img width="558" height="472" alt="Image" src="https://github.com/user-attachments/assets/ef929dbc-2c03-4341-a34e-0ed206bb3ccd" />
 
 ### 2. Total Revenue Generated  
 This question is solved, and here is the answer:  

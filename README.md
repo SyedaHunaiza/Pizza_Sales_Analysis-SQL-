@@ -15,7 +15,7 @@ This question is solved, and here is the answer:
 
 ### 2. Total Revenue Generated  
 This question is solved, and here is the answer:  
-📸 Screenshot of result is attached below.  
+<img width="546" height="491" alt="Image" src="https://github.com/user-attachments/assets/489d5c07-35fc-41c3-8daa-6156750ae2b5" />  
 
 ### 3. Highest Priced Pizza  
 This question is solved, and here is the answer:  

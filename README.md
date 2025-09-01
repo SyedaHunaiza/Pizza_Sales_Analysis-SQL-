@@ -31,7 +31,7 @@ This question is solved, and here is the answer:
 
 ### 6. Total Quantity of Each Pizza Category Ordered  
 This question is solved, and here is the answer:  
-📸 Screenshot of result is attached below.  
+<img width="788" height="515" alt="Image" src="https://github.com/user-attachments/assets/d21ed720-9002-4857-98ba-38aad11c6c79" /> 
 
 ### 7. Distribution of Orders by Hours  
 This question is solved, and here is the answer:  

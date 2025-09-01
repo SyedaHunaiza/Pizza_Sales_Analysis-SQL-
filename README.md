@@ -35,7 +35,7 @@ This question is solved, and here is the answer:
 
 ### 7. Distribution of Orders by Hours  
 This question is solved, and here is the answer:  
-📸 Screenshot of result is attached below.  
+<img width="978" height="569" alt="Image" src="https://github.com/user-attachments/assets/690fedf6-1dbf-4007-81ef-6503412224f3" /> 
 
 ---
 
@@ -46,8 +46,8 @@ This question is solved, and here is the answer:
 ---
 
 ## 🛠️ Tools Used
-- SQL (MySQL / PostgreSQL / SQLite)  
-- Database client (MySQL Workbench / DBeaver)  
+- SQL (MySQL)  
+- Database client (MySQL Workbench)  
 - Git & GitHub for version control  
 
 ---
